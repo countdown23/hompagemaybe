@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@700&family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@700&family=Oswald:wght@500&family=Quicksand&display=swap');
+
+body,
+html {
+  background-image:url('attempt23.gif'); background-repeat:no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: 'Mountains of Christmas', lobster;
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+}
+
+span {
+  color:black;
+  text-align: center;
+  display: none;
+  font-family: 'Oswald', sans-serif;
+  line-height: 100px;
+  font-size: 5vh;
+
+}
+
+#title {
+  color:black;
+  text-align: center;
+  font-size: 12.5vh;
+}
+
+#fullTime {
+  display: block;
+}
+
+p {
+  text-align: center;
+  font-size: 5vh;
+  background-color:#ff6666;
+  width:max-content; 
+}
+a {
+  font-size:200%;
+
+}
+h6 {
+  color:black;
+  text-align: center;
+  font-size: 2vh;
+}
+
+h1 {
+  background-color:#5eec4b;
+  width:max-content; 
+}
+
+
+span {
+  background-color:#5eec4b;
+  width:max-content; 
+}
+
+a {
+    color: #ff8a8d;
+    display: block;
+    text-decoration: none;
+}
+
+p{
+
+  color:black;
+}
